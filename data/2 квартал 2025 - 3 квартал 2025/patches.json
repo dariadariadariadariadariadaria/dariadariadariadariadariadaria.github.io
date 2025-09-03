@@ -1,0 +1,137 @@
+[
+    {
+        "project": "АвтоВАЗ",
+        "patches": 6,
+        "releases": 1
+    },
+    {
+        "project": "Арсенал",
+        "patches": 4,
+        "releases": 1
+    },
+    {
+        "project": "БобрАгромаш",
+        "patches": 1,
+        "releases": 0
+    },
+    {
+        "project": "ГЕФЕСТ",
+        "patches": 0,
+        "releases": 1
+    },
+    {
+        "project": "Завод №9",
+        "patches": 9,
+        "releases": 0
+    },
+    {
+        "project": "Заслон",
+        "patches": 9,
+        "releases": 0
+    },
+    {
+        "project": "КБ Радар",
+        "patches": 1,
+        "releases": 1
+    },
+    {
+        "project": "КОРПУС",
+        "patches": 3,
+        "releases": 0
+    },
+    {
+        "project": "КУПОЛ",
+        "patches": 1,
+        "releases": 0
+    },
+    {
+        "project": "Луч",
+        "patches": 1,
+        "releases": 0
+    },
+    {
+        "project": "МАЗ",
+        "patches": 4,
+        "releases": 1
+    },
+    {
+        "project": "МТЗ",
+        "patches": 6,
+        "releases": 1
+    },
+    {
+        "project": "МЭТЗ",
+        "patches": 10,
+        "releases": 1
+    },
+    {
+        "project": "НЕФАЗ",
+        "patches": 2,
+        "releases": 1
+    },
+    {
+        "project": "Пассат",
+        "patches": 2,
+        "releases": 1
+    },
+    {
+        "project": "Рубин",
+        "patches": 1,
+        "releases": 0
+    },
+    {
+        "project": "РХМ",
+        "patches": 2,
+        "releases": 1
+    },
+    {
+        "project": "Салют",
+        "patches": 18,
+        "releases": 1
+    },
+    {
+        "project": "Сейсмотехника",
+        "patches": 1,
+        "releases": 0
+    },
+    {
+        "project": "СЭПО",
+        "patches": 1,
+        "releases": 1
+    },
+    {
+        "project": "УВЗ",
+        "patches": 2,
+        "releases": 1
+    },
+    {
+        "project": "УЛКМ",
+        "patches": 8,
+        "releases": 1
+    },
+    {
+        "project": "УТТЗ",
+        "patches": 0,
+        "releases": 1
+    },
+    {
+        "project": "Фармлэнд",
+        "patches": 2,
+        "releases": 0
+    },
+    {
+        "project": "Фреор",
+        "patches": 5,
+        "releases": 1
+    },
+    {
+        "project": "ЦНИИТУ",
+        "patches": 0,
+        "releases": 1
+    },
+    {
+        "project": "ЧТЗ",
+        "patches": 2,
+        "releases": 1
+    }
+]
